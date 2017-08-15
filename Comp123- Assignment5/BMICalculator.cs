@@ -14,19 +14,25 @@ using System.Windows.Forms;
  * */
 namespace Comp123__Assignment5
 {
-    public partial class BMICalculator : Form
+    public partial class formBMICalculator : Form
     {
-        public BMICalculator()
+        public formBMICalculator()
         {
             InitializeComponent();
         }
 
-        private void Metric_CheckedChanged(object sender, EventArgs e)
+
+        private void radioButton1_CheckedChanged_1(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void radioButton2_CheckedChanged(object sender, EventArgs e)
         {
 
         }
 
-        private void radioButton1_CheckedChanged(object sender, EventArgs e)
+        private void textBox3_TextChanged(object sender, EventArgs e)
         {
 
         }
