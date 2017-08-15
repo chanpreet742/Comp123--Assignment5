@@ -7,12 +7,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+/*
+ * Name: Chanpreet Mudhar
+ * Student Number - 300932732
+ * Date: August 15, 2017
+ * */
 namespace Comp123__Assignment5
 {
-    public partial class Form1 : Form
+    public partial class BMICalculator : Form
     {
-        public Form1()
+        public BMICalculator()
         {
             InitializeComponent();
         }

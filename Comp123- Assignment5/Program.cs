@@ -3,7 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+/*
+ * Name: Chanpreet Mudhar
+ * Student Number - 300932732
+ * Date: August 15, 2017
+ * */
 namespace Comp123__Assignment5
 {
     static class Program
@@ -16,7 +20,7 @@ namespace Comp123__Assignment5
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new BMICalculator());
         }
     }
 }
