@@ -20,5 +20,15 @@ namespace Comp123__Assignment5
         {
             InitializeComponent();
         }
+
+        private void Metric_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void radioButton1_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
