@@ -172,6 +172,7 @@ namespace Comp123__Assignment5
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(16F, 31F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.SlateGray;
             this.ClientSize = new System.Drawing.Size(304, 442);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.TxtResult);
@@ -184,6 +185,7 @@ namespace Comp123__Assignment5
             this.Controls.Add(this.TxtWeight);
             this.Controls.Add(this.tableLayoutPanel1);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ForeColor = System.Drawing.Color.Black;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
             this.Margin = new System.Windows.Forms.Padding(8, 7, 8, 7);
             this.MaximizeBox = false;
